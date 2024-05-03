@@ -1307,7 +1307,7 @@ h5 {
 @media only screen and (max-width:589px) {
   .acthead {
     font-size: 2.5rem;
-    margin-top: 78%;
+    margin-top: 80%;
     padding-bottom: 2%;
   }
 
@@ -1770,11 +1770,11 @@ form * {
   input {
     width: 80%;
     margin: auto;
-    height: 40px;
+    height: 38px;
   }
 
   label {
-    font-size: 13px;
+    font-size: 12px;
     margin-left: 7%;
   }
 
